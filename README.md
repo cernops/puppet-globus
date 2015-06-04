@@ -60,8 +60,7 @@ BEAKER_debug=yes BEAKER_setfile=spec/acceptance/nodesets/docker.yml bundle exec 
 
 
 ## License
-Apache II License for all files except automaster.aug which is copied from
-the http://augeas.net project. The automaster.aug file is LGPL v2+.
+Apache II License for all files. 
 
 ## Contact
 Steve Traylen <steve.traylen@cern.ch>

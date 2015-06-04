@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "author": "CERNOps",
   "summary": "Installs and configures globus",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "source": "https://github.com/cernops/puppet-globus",
   "project_page": "https://github.com/cernops/puppet-globus",
   "issues_url": "https://github.com/cernops/puppet-globus/issues",
