@@ -1,6 +1,6 @@
 {
   "name": "CERNOps-globus",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "CERNOps",
   "summary": "Installs and configures globus",
   "license": "Apache 2.0",
